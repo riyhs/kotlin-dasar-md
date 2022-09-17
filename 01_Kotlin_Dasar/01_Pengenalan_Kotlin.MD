@@ -8,3 +8,5 @@ Kotlin bisa digunakan untuk membuat:
 
 - Aplikasi Android 
 - Pengembangan Aplikasi Multiplatform (Android, iOS, Server, Web)
+
+[>> Materi Selanjutnya (Hello World) >>](02_Hello_World.MD)

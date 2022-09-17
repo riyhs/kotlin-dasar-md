@@ -42,3 +42,5 @@ You entered: 10
 | `nextFloat()`   | Untuk menangkap inputan tipe data `Float`   |
 | `nextDouble()`  | Untuk menangkap inputan tipe data `Double`  |
 | `nextBoolean()` | Untuk menangkap inputan tipe data `Boolean` |
+
+[<< Materi Sebelumnya (Operator) <<](04_Operator.MD)

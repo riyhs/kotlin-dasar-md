@@ -1,3 +1,5 @@
+[<< Materi Sebelumnya (Variabel dan Tipe Data) <<](03_Variabel_dan_Tipe_Data.MD)
+
 # 04 Operator
 ## Operator Aritmatika
 
@@ -59,3 +61,5 @@ fun main() {
 | &&           | And  | Mengembalikan `true` jika kedua pernyataan adalah `true`      |
 | &#124;&#124; | Or   | Mengembalikan `true` jika salah satu pernyataan adalah `true` |
 | !            | Not  | Membalik hasil                                                |
+
+[>> Materi Selanjutnya (Input Output) >>](05_Input_Output.MD)

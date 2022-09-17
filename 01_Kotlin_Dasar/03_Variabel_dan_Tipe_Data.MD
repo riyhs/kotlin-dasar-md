@@ -1,3 +1,5 @@
+[<< Materi Sebelumnya (Hello World) <<](02_Hello_World.MD)
+
 # 03 Variabel dan Tipe Data
 ## Variabel
 Untuk deklarasi variabel di Kotlin sedikit berbeda dengan bahasa C, deklarasi dimulai dengan menggunakan `val` atau `var`
@@ -42,3 +44,5 @@ val myBoolean: Boolean = true     // Boolean
 val myText: String = "Hello"      // String
 ```
 *Catatan: Tidak diwajibkan mendefinisikan tipe data di kotlin*
+
+[>> Materi Selanjutnya (Operator) >>](04_Operator.MD)

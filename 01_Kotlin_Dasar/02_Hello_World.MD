@@ -1,3 +1,5 @@
+[<< Materi Sebelumnya (Pengenalan Kotlin) <<](01_Pengenalan_Kotlin.MD)
+
 # 02 Hello World 
 
 ## Program Sederhana
@@ -28,4 +30,4 @@ println("Hello Kotlin!")
 
 `("Hello Kotlin!")` untuk memasukan nilai kita tinggal memasukan nilainya didalam tanda kurung, `"..."` tanda petik 2 menandakan bahwa itu adalah String
 
-
+[>> Materi Selanjutnya (Variabel dan Tipe Data) >>](03_Variabel_dan_Tipe_Data.MD)
